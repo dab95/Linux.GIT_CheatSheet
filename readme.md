@@ -6,4 +6,5 @@ rm- removes files or directories
 cp- copy files or directories
 
 
+git init- creates new local git repository. Initializes new empty repository
 
