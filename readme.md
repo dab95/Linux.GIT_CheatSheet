@@ -13,4 +13,4 @@ git add- adds a change in the working directory. Used to save a copy of current 
 git commit- captures a snapshot of a projects current saved changes. save to project history
 git revert- Revert undoes changes to a specific commit without reverting back to a previous state of the project by removing subsequent commits from revert point
 git push- push uploads to local repository content to the remote repository (git push <remote> <branch>)
-
+git pull- used to pull content from a remote repository and update local repository with its contents. Git pull = git fetch + git merge
